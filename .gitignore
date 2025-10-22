@@ -1,0 +1,18 @@
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+.env/
+
